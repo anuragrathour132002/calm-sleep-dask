@@ -1,0 +1,14 @@
+.navbar {
+    height: 112px;
+    position: fixed;
+    top: 0;
+    background-color: #3495e4;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.navbar>img {
+    margin-left: 50px;
+    height: 80%;
+}
