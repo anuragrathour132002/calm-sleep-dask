@@ -14,6 +14,7 @@ display unique_plays total_plays as a graph and completion_rate with a progress 
 4. completion_rate is the rate at which the whole sound is listened to by the user
 
 
+![Screenshot (959)](https://github.com/anuragrathour132002/calm-sleep-dask/assets/83803557/dc8bf810-bed4-4265-b0ab-b11ee373aca7)
 
 
 
